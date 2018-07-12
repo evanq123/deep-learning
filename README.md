@@ -22,7 +22,7 @@
 
   - Dropout: Dropout MLP
 
-  - CNN: Convolutional Neural Networks
+  - CNN: Convolutional Neural Networks (WIP)
 
 
 
